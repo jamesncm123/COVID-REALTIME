@@ -1,0 +1,7 @@
+{
+  "name": "covidRealTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
